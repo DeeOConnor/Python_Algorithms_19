@@ -2,8 +2,9 @@
 Course notes, Jupyter workbooks &amp; worked examples for Python &amp; Algorithms Masterclass 2019
 
 ## Pre-requisites:
-Install Python at the following link: https://www.python.org/downloads/
-Install pip following the instructions at the following link: https://www.liquidweb.com/kb/install-pip-windows/
+Install Python at the following link: https://www.python.org/downloads/<br/>
+Install pip following the instructions at the following link: https://www.liquidweb.com/kb/install-pip-windows/<br/>
+Install git following the guide here: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 <br/>
 <br/>
 Install Jupyter Notebook from https://jupyter.org/install, or type the following commands.<br/>
@@ -25,6 +26,6 @@ to start the notebook running in your browser on localhost.
 <br/>
 To get access to the repository here, run the following command:
 <br/>
-`git clone https://github.com/DeeOConnor/Python_Algorithms_19.git`
+```git clone https://github.com/DeeOConnor/Python_Algorithms_19.git```
 <br/>
 You may be required to authenticate with your GitHub credentials. This creates a local version of the code repo that exists only on your machine. You can edit and add to the code and files there, and when you want to push your changes to this code base, we will cover the steps needed in class.
